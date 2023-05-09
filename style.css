@@ -14,7 +14,7 @@ padding: 0.2rem;
 margin: 1.2rem;
 color: white;
 background-color: gray;
-border-radius: 50px;
+
 }
 #Password{
     display: flex;
@@ -22,7 +22,7 @@ border-radius: 50px;
     margin: 1.2rem;
     color: white;
     background-color: gray;
-    border-radius: 50px;
+   
 }
 #Repeat{
     display: flex;
@@ -30,7 +30,7 @@ border-radius: 50px;
     margin: 1.2rem;
     color:white;
    background-color: gray;
-   border-radius: 50px;
+  
 }
 p{
     display: flex;
@@ -43,7 +43,7 @@ p{
     background-color: #04aa6d;
    justify-content: center;
     width: 95%;
-    border-radius: 50px;
+   
 
 }
 #sign{
