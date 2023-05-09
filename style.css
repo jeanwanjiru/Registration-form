@@ -1,0 +1,60 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+h1{
+    display: flex;
+    margin: 1.2rem;
+   
+}
+#Email{
+display: flex;
+padding: 0.2rem;
+margin: 1.2rem;
+color: white;
+background-color: gray;
+border-radius: 50px;
+}
+#Password{
+    display: flex;
+    padding: 0.2rem;
+    margin: 1.2rem;
+    color: white;
+    background-color: gray;
+    border-radius: 50px;
+}
+#Repeat{
+    display: flex;
+    padding: 0.2rem;
+    margin: 1.2rem;
+    color:white;
+   background-color: gray;
+   border-radius: 50px;
+}
+p{
+    display: flex;
+    margin:1.2rem;
+}
+#Register{
+    display: flex;
+    margin: 1.2rem;
+    color:white;
+    background-color: #04aa6d;
+   justify-content: center;
+    width: 95%;
+    border-radius: 50px;
+
+}
+#sign{
+    display: flex;
+    justify-content: center;
+}
+#horizontal{
+    display: flex;
+    margin: 1.2rem;
+}
+#line{
+    display:flex ;
+    margin: 1.2rem;
+}
